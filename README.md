@@ -21,5 +21,5 @@
 <img src = "https://github.com/Suvam-Mondal/Dialer-App/blob/master/Screenshot_20170501-075821.png" height="480" width="320" >
 
 ## Future Improvements
-* Iclude contacts so that the user can make phone call without the need to write the number
+* Include contacts so that the user can make phone call without the need to write the number
 
